@@ -13,7 +13,7 @@ export default function Projects() {
             <h2>Projects</h2>
         <div>
             <div class="project-box">
-            <img src={npsclone} alt="national park clone website screenshot"/>
+            <img src={npsclone} alt="national park website"/>
             <p class="p-format">This site allows you to see a list of the States and their co-ordinating national parks, in the future you
                 will be able to route to different pages in additional to the state and national parks page to learn more
                 about the national park.</p> 
@@ -21,7 +21,7 @@ export default function Projects() {
                 <a href="https://github.com/heatherzurek/angular-nps-clone">View Code</a> | <a href="https://npsclone.firebaseapp.com/">View Deployed Site</a>
             </div>
             <div class="project-box">
-            <img src={pupster} alt="dog background"/>
+            <img src={pupster} alt="dog"/>
             <p class="p-format">A web application that uses a quiz to query shelter pet profiles from a relational database and return
                 matches to users. Created on a four person team, my contributions included UI/UX, Database Calls and MVC
                 logic.</p>
@@ -29,8 +29,8 @@ export default function Projects() {
                 <a href="https://github.com/heatherzurek/pupster">View Code</a>
             </div>
             <div class="project-box">
-           <img src={wanderlist1} alt="screenshot of website"/>
-           <img src={wanderlist2} alt="screenshot of website"/>
+           <img src={wanderlist1} alt="river"/>
+           <img src={wanderlist2} alt="links"/>
                 <p class="p-format">A web application that helps the user pack for camping trips based on terrain and season. It allows the user
                 to choose the time of year, where they'll be going and it will suggest packing lists based on their
                 selections. Created on a three person team, my contributions included UI/UX, and JavaScript logic.</p>
@@ -39,7 +39,7 @@ export default function Projects() {
 
             </div>
             <div class="project-box">
-            <img src={catan} alt="photo of catan game"/>
+            <img src={catan} alt="catan game"/>
             <p class="p-format">A functional webbased multi-player game, based on the board game Settlers of Catan. Group porject with 4 team
                 mates, done in 3 days. My contribution was mainly design and CSS focused.</p>
                 <p class="stack-format">Stack: <span class="highlight">Angular, JavaScript, HTML, CSS</span></p>
