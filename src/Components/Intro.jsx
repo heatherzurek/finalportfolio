@@ -6,10 +6,9 @@ import Links from './Links';
 export default function Intro() {
     return(
         <div>
-            <h1 class="helloHeather">Heather Zurek</h1>
-            <p class="engTitle">Software and Support Engineer
+            <h1 class="name-intro">Heather Zurek</h1>
+            <p class="title-intro">Software and Support Engineer
             <Links /></p>
-            {/* <h3>I like writing <span class="highlight">code</span>, and love <span class="highlight">learning</span> new things!</h3> */}
             <hr/>
         </div>
     );

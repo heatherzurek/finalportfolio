@@ -13,9 +13,6 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
-img {
-  width: 100%;
-}
 .box {
   width: 75%;
   display: flex;
@@ -39,24 +36,21 @@ a {
 a:hover{
   color: #e6b31e;
 }
-/* img {
-  margin: 0 15px;
-} */
-.introComp {
-  font-size: 45px;
+img {
+  width: 100%;
 }
-.helloHeather {
+.name-intro {
   font-family: 'Nothing You Could Do', cursive;
   font-size: 50px;
 }
-.engTitle {
+.title-intro {
   margin-top: -40px;
   margin-bottom: 75px;
 }
-.aboutSection {
+.about-container {
   margin-top: 75px;
 }
-.paraFormat {
+.p-format {
   text-align: justify;
   padding: 10px
 }
@@ -64,10 +58,7 @@ a:hover{
   padding: 25px;
   color: #e6b31e;
 }
-.stackFormat {
-  padding: 10px;
-}
-.techStack {
+.techstack-container {
   display: flex;
   flex-direction: column;
 }
@@ -75,13 +66,15 @@ a:hover{
   width: 300px;
   margin: 0 auto;
 }
-.projectBg {
-  border-radius: 1%;
+.project-box {
   background-color: #ffffff1a;
   margin-bottom: 30px;
   padding: 10px;
 }
-.links {
+.stack-format {
+  padding: 10px;
+}
+.links-container {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;

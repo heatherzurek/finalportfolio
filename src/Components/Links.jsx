@@ -5,7 +5,7 @@ import { faLinkedin, faTwitter, faGithubAlt } from '@fortawesome/free-brands-svg
 
 export default function Links(){
     return(
-        <div class="links">
+        <div class="links-container">
             <a href="mailto:heather.zurek@gmail.com"><FontAwesomeIcon icon={ faEnvelope } size="lg"/></a> <a href="http://www.twitter.com/sleepywifi"><FontAwesomeIcon icon={ faTwitter } size="lg"/></a> <a href="http://www.github.com/heatherzurek"><FontAwesomeIcon icon={ faGithubAlt } size="lg"/></a> <a href="http://www.linkedin.com/in/heatherzurek"><FontAwesomeIcon icon={ faLinkedin } size="lg"/></a>
         </div>
     );
