@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Space+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Nothing+You+Could+Do&display=swap');
 body {
-  margin: 50px 10px 55px 10px;
+  margin: 50px 10px 60px 10px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #343434;
@@ -14,7 +14,7 @@ code {
     monospace;
 }
 .box {
-  width: 75%;
+  width: 60%;
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -90,7 +90,7 @@ and (max-device-width: 1600px)
 and (-webkit-min-device-pixel-ratio: 2)
 and (min-resolution: 192dpi) { 
   .box{
-    width: 75%;
+    width: 60%;
   }
 }
 
@@ -103,7 +103,7 @@ and (min-resolution: 192dpi) {
     .box {
       width: 100%
   }
-  .helloHeather {
+  .name-intro {
     font-size: 50px;
   }
 }
@@ -117,7 +117,7 @@ and (max-device-width : 667px) {
   .box {
       width: 100%
   }
-  .helloHeather {
+  .name-intro {
     font-size: 50px;
   }
 }
@@ -131,10 +131,7 @@ and (max-device-width : 667px) {
   .box {
     width: 100%;
   }
-  .aboutPhoto {
-    width: 90%;
-  }
-  .helloHeather {
+  .name-intro {
     font-size: 41px;
   }
 }
