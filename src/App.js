@@ -11,6 +11,7 @@ import Writing from './Components/Writing';
 
 function App() {
   return (
+    <div className="layout">
     <div className="box">
       <Intro />
       <About />
@@ -19,8 +20,10 @@ function App() {
       <Writing />
       <Contact />
       <Links />
+    </div>
       <Footer />
     </div>
+
   );
 }
 
