@@ -4,7 +4,7 @@ import { faChevronDown } from '@fortawesome/free-solid-svg-icons';
 
 export default function Stack() {
     return(
-        <div class="techstack-container">
+        <div className="techstack-container">
             <h2>Tech Stack</h2>
             <span>JavaScript</span> 
             <span>Node.js</span>
@@ -17,7 +17,7 @@ export default function Stack() {
             <span>SQL</span>
             <span>Jest</span>
             <span>and always learning!</span>
-            <p class="faChev"><FontAwesomeIcon icon={ faChevronDown } size="lg"/></p>
+            <p className="faChev"><FontAwesomeIcon icon={ faChevronDown } size="lg"/></p>
         </div>
     );
 }
