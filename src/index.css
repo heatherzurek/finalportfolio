@@ -44,12 +44,12 @@ img {
   font-size: 50px;
 }
 .title-intro {
-  margin-top: -40px;
-  margin-bottom: 75px;
+  margin-top: -35px;
+  margin-bottom: 85px;
 }
-.about-container {
+/* .about-container {
   margin-top: 75px;
-}
+} */
 .p-format {
   text-align: justify;
   padding: 10px
