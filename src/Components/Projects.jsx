@@ -11,7 +11,6 @@ export default function Projects() {
     return(
         <div>
             <h2>Projects</h2>
-        <div>
             <div class="project-box">
             <img src={npsclone} alt="national park website"/>
             <p class="p-format">This site allows you to see a list of the States and their co-ordinating national parks, in the future you
@@ -44,7 +43,6 @@ export default function Projects() {
                 mates, done in 3 days. My contribution was mainly design and CSS focused.</p>
                 <p class="stack-format">Stack: <span class="highlight">Angular, JavaScript, HTML, CSS</span></p>
                 <a href="https://github.com/heatherzurek/settlers-of-catan">View Code</a>
-            </div>
             </div>
             <p>You can view more on my <a href="www.github.com/heatherzurek">Github</a></p>
             <p class="faChev"><FontAwesomeIcon icon={ faChevronDown } size="lg"/></p>
