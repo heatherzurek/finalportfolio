@@ -82,8 +82,13 @@ img {
 .contact-container {
   margin-bottom: 50px;
 }
-.contact-image img{
-  width: 60%;
+.contact-image{
+  display: flex;
+  flex-direction: row;
+}
+.contact-image img {
+  margin: 5px;
+  width: 50%;
 }
 footer {
   margin-top: 60px;
