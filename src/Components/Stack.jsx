@@ -9,13 +9,11 @@ export default function Stack() {
       <span>JavaScript</span>
       <span>Node.js</span>
       <span>React</span>
+      <span>Go</span>
       <span>C#</span>
       <span>.NET</span>
-      <span>Go</span>
       <span>Angular</span>
       <span>TypeScript</span>
-      <span>SQL</span>
-      <span>Jest</span>
       <span>and always learning!</span>
       <p className="faChev">
         <FontAwesomeIcon icon={faChevronDown} size="lg" />

@@ -37,7 +37,7 @@ a:hover{
   color: #e6b31e;
 }
 img {
-  width: 100%;
+  width: 95%;
 }
 .name-intro {
   font-family: 'Nothing You Could Do', cursive;
@@ -81,6 +81,10 @@ img {
 }
 .contact-container {
   margin-bottom: 50px;
+}
+.contact-image img{
+  width: 60%;
+
 }
 footer {
   margin-top: 60px;

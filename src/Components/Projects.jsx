@@ -20,20 +20,18 @@ export default function Projects() {
           to learn more about the national park.
         </p>
         <p className="stack-format">
-          Stack:{" "}
+          Stack:
           <span className="highlight">Angular, TypeScript, HTML, CSS</span>
         </p>
         <a href="https://github.com/heatherzurek/angular-nps-clone">
           View Code
-        </a>{" "}
+        </a>
       </div>
       <div className="project-box">
         <img src={pupster} alt="dog" />
         <p className="p-format">
           A web application that uses a quiz to query shelter pet profiles from
-          a relational database and return matches to users. Created on a four
-          person team, my contributions included UI/UX, Database Calls and MVC
-          logic.
+          a relational database and return matches to users based on their unique answers. Created on a four person team, my contributions included UI/UX, Database Calls and MVC logic.
         </p>
         <p className="stack-format">
           Stack: <span className="highlight">C#, .NET, mySQL, HTML, CSS</span>
@@ -51,13 +49,13 @@ export default function Projects() {
           included UI/UX, and JavaScript logic.
         </p>
         <p className="stack-format">
-          Stack:{" "}
+          Stack:
           <span className="highlight">JavaScript, jQuery, HTML, CSS</span>
         </p>
         <a href="https://github.com/heatherzurek/wanderlist-camping">
           View Code
-        </a>{" "}
-        |{" "}
+        </a>
+        |
         <a href="https://heatherzurek.github.io/wanderlist-camping/">
           View Deployed Site
         </a>
@@ -65,12 +63,10 @@ export default function Projects() {
       <div className="project-box">
         <img src={catan} alt="catan game" />
         <p className="p-format">
-          A functional webbased multi-player game, based on the board game
-          Settlers of Catan. Group porject with 4 team mates, done in 3 days. My
-          contribution was mainly design and CSS focused.
+          A functional webbased multi-player take on the classic tabletop board game Settlers of Catan where you build roads to connect to cities to earn victory points. This was a group project, on a team of 5, and the work was completed in 3 days. My contribution was mainly design and HTML/CSS focused.
         </p>
         <p className="stack-format">
-          Stack:{" "}
+          Stack:
           <span className="highlight">Angular, JavaScript, HTML, CSS</span>
         </p>
         <a href="https://github.com/heatherzurek/settlers-of-catan">
