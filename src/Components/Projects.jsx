@@ -26,7 +26,6 @@ export default function Projects() {
         <a href="https://github.com/heatherzurek/angular-nps-clone">
           View Code
         </a>{" "}
-        | <a href="https://npsclone.firebaseapp.com/">View Deployed Site</a>
       </div>
       <div className="project-box">
         <img src={pupster} alt="dog" />
