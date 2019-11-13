@@ -14,7 +14,7 @@ export default function Projects() {
       <div className="project-box">
         <img src={npsclone} alt="national park website" />
         <p className="p-format">
-          This site allows you to see a list of the States and their
+          This web app allows you to see a list of the States and their
           co-ordinating national parks, in the future you will be able to route
           to different pages in additional to the state and national parks page
           to learn more about the national park.
